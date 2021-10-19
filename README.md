@@ -1,3 +1,3 @@
 # url-shortener
 
-This is only a back-end system for practicing NodeJS - MongoDB - Heroku
+This is only an API for shorten the URL. The purpose of this project is to practice NodeJS - MongoDB - Heroku.
